@@ -1,4 +1,5 @@
 defaultProject: diagnomind-dev
-defaultDataset: dataform
-defaultAssertionDataset: dataform_assertions
+defaultDataset: demo
+defaultAssertionDataset: demo_assertions
 dataformCoreVersion: 3.0.37
+defaultLocation: EU
